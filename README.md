@@ -30,7 +30,13 @@ Understanding the debt to GDP is an important indicator of a nation's financial 
   
 ![Screen Shot 2022-02-07 at 10 07 39 PM](https://user-images.githubusercontent.com/98241953/152910762-01089682-8499-485e-a9c0-0a1471be43a2.png)
 
+I found this visualization in a strange, roundabout way. Recently a televsion program I enjoy was nominated for a GLAAD Best New Series award and upon hearing about its nomination, I was interested in check out GLAAD's website to see if there was information about LGBTQ+ representation on television and in film. I knew, as a child growing up in the 2000s and early 2010s, that LGBTQ+ characters have only seemed to profilerate recently, compared to the slim representation given to when I was coming of age. While I found their report, I decided to see if there were any visualizations of their annual "Where We Are on TV" report. I found this one in a article from 2019. Although not the most up-to-date information, I was interested in the visualization because I felt, while it was effective at showing the marked increase of representation on television, there were other elements that made the story not as coherent as it could be. So, I took to the challenge of making it even better. 
+  
+  ![Kornides Assignment #3 (1)](https://user-images.githubusercontent.com/98241953/152912782-8901b468-1e2d-4145-a776-ac3535a38065.png)
+  
+  
 
+  
 
 
 
