@@ -26,6 +26,9 @@ Visualizing Government Debt
 Understanding the debt to GDP is an important indicator of a nation's financial health. While the previous graph looks at the ratio of debt to GDP through time by using a line graph, the data visualization above looks to see if there are any trends by utilizing the trend line. Trend lines are used to understand how the dots on a scatter plot align, if there is a high correlation between the x and y axis.  
 
 <i> Pride on Television <i>
+  
+  
+![Screen Shot 2022-02-07 at 10 07 39 PM](https://user-images.githubusercontent.com/98241953/152910762-01089682-8499-485e-a9c0-0a1471be43a2.png)
 
 
 
