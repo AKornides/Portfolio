@@ -38,12 +38,8 @@ I found this visualization in a strange, roundabout way. Recently a televsion pr
   
   While I think this was a better way to tell the story of just cable, there were still many interesting things that can be gleamed from the other data points regarding streaming and broadcast television programs that give the story of representation on the whole.
   
-  I interviewed two friends - M and Y - to give me feedback about what I could do to improve the graphs, or which one would be better used in this context. M suggested that I include percentages clearly on the second wireframe I made, which Y agreed with. However, with that suggestion, I thought the graphic would too cluttered. In addition, Y asked me about my use of color in that second visualization. They wanted to know why I picked those colors, if they added anything to the story. I said I just picked a color scheme that went together. Y pointed out, and it was reaffirmed during the in-class critique, that the color yellow was eye-catching and their focus went to that part of the chart. With all this in mind, I gathered that simplicity was better and that
-  
-  After I finished my 
-
-  
-
-
+  I interviewed two friends - M and Y - to give me feedback about what I could do to improve the graphs, or which one would be better used in this context. M suggested that I include percentages clearly on the second wireframe I made, which Y agreed with. However, with that suggestion, I thought the graphic would too cluttered. In addition, Y asked me about my use of color in that second visualization. They wanted to know why I picked those colors, if they added anything to the story. I said I just picked a color scheme that went together. Y pointed out, and it was reaffirmed during the in-class critique, that the color yellow was eye-catching and their focus went to that part of the chart. Then I considered the type of visualization that I used for the second wireframe. It was somewhat deceptive because it made the pie charts smaller over time, even when representation was growing. With all this in mind, I gathered that simplicity was better and that the first visualization that I drafted was better at telling the story of the rise in representation. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8638285"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+ 
+  After I finished my critque portion of the process, I used Flourish to make the simplified graphic. I decided to use purple, a color commonly associated with the LGBTQ+ community to represent cable television programs. I used black and grey to push the other two lines, regarding broadcast and streaming, to the back. They are an important part to the data story overall, but they are not the implied story from the original title of the graphic. 
