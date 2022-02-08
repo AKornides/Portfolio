@@ -34,7 +34,13 @@ I found this visualization in a strange, roundabout way. Recently a televsion pr
   
   ![Kornides Assignment #3 (1)](https://user-images.githubusercontent.com/98241953/152912782-8901b468-1e2d-4145-a776-ac3535a38065.png)
   
+  From there, I decided to wireframe a redesign. The title of the original graphics is "Pride in Cable Television" and that this category was at an all-time high in 2018. So it was curious that the graphic included both streaming and broadcast as a category. I thought the easiest way to tell the story would be to remove these data points so the focus was solely on cable. While a simple bar graph tells the story just fine, I think a line graph really gives the impression of growth. I changed the subtitle of the graph in my wireframe to focus just on cable.
   
+  While I think this was a better way to tell the story of just cable, there were still many interesting things that can be gleamed from the other data points regarding streaming and broadcast television programs that give the story of representation on the whole.
+  
+  I interviewed two friends - M and Y - to give me feedback about what I could do to improve the graphs, or which one would be better used in this context. M suggested that I include percentages clearly on the second wireframe I made, which Y agreed with. However, with that suggestion, I thought the graphic would too cluttered. In addition, Y asked me about my use of color in that second visualization. They wanted to know why I picked those colors, if they added anything to the story. I said I just picked a color scheme that went together. Y pointed out, and it was reaffirmed during the in-class critique, that the color yellow was eye-catching and their focus went to that part of the chart. With all this in mind, I gathered that simplicity was better and that
+  
+  After I finished my 
 
   
 
