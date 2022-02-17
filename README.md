@@ -49,7 +49,7 @@ I found this visualization in a strange, roundabout way. Recently a televsion pr
    
  <font size="+15"> <b>Final Project</b> </font>
  
- <font size="+5"> <b>Part One</b>
+  <font size="+5"> <b>Part One</b> </font>
  
  <i>Outline</i>
    
