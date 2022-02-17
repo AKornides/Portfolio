@@ -1,7 +1,7 @@
-# Portfolio
+# <font size="+20"> <b>Portfolio</b> </font>
 
 
-About Me
+<font size="+15"> <b>About Me</b> </font>
 
 Hello! My name is Alexandra Kornides (she/her/hers) and I am a second year Master of Arts Management candidate. In 2020, I graduated with a B.A. in Communication from Seton Hill University (around a 45-minute drive from Pittsburgh.) For the majority of my career, I've been in the theatrical nonprofit space within a marketing capacity. Over the past summer, I worked as a Development and Donor Engagement intern at Pittsburgh Cultural Trust and helped build a new system for managing their mass email campaigns. While I love working with creating engaging content, my roles has shifted more towards data analytics.
 
@@ -11,9 +11,9 @@ What I Hope to Learn
 
 Like I said, my roles in organizations have gradually changed to more analyzing data. I want to learn how to effectively represent what the data says in my research for coworkers and board members. I want to learn how to be a better designer for graphs and charts that make stronger points. 
 
-Portfolio
+<font size="+15"> <b>Portfolio/b> </font>
 
-Visualizing Government Debt 
+  <i> <b>Visualizing Government Debt</b> </i>
 
 <iframe src="https://data.oecd.org/chart/6Bn1" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bn1" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
@@ -25,7 +25,7 @@ Visualizing Government Debt
 
 Understanding the debt to GDP is an important indicator of a nation's financial health. While the previous graph looks at the ratio of debt to GDP through time by using a line graph, the data visualization above looks to see if there are any trends by utilizing the trend line. Trend lines are used to understand how the dots on a scatter plot align, if there is a high correlation between the x and y axis.  
 
-<i> Pride on Television <i>
+  <i> <b>Pride on Television</b> <i>
   
   
 ![Screen Shot 2022-02-07 at 10 07 39 PM](https://user-images.githubusercontent.com/98241953/152910762-01089682-8499-485e-a9c0-0a1471be43a2.png)
@@ -52,8 +52,13 @@ I found this visualization in a strange, roundabout way. Recently a televsion pr
  <font size="+5"> <b>Part One</b>
  
  <i>Outline</i>
+   
+   
  
  <i>Initial Sketches</i>
+   
+   
+   
  
  <i>Data Sources</i>
  
