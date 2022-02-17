@@ -43,3 +43,18 @@ I found this visualization in a strange, roundabout way. Recently a televsion pr
 <div class="flourish-embed flourish-chart" data-src="visualisation/8638285"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
  
   After I finished my critque portion of the process, I used Flourish to make the simplified graphic. I decided to use purple, a color commonly associated with the LGBTQ+ community to represent cable television programs. I used black and grey to push the other two lines, regarding broadcast and streaming, to the back. They are an important part to the data story overall, but they are not the implied story from the original title of the graphic. 
+  
+  
+  
+   
+ <font size="+15"> <b>Final Project</b> </font>
+ 
+ <font size="+5"> <b>Part One</b>
+ 
+ <i>Outline</i>
+ 
+ <i>Initial Sketches</i>
+ 
+ <i>Data Sources</i>
+ 
+ <i>Medium and Method</i>
