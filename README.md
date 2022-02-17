@@ -57,9 +57,26 @@ I found this visualization in a strange, roundabout way. Recently a televsion pr
  
  <i>Initial Sketches</i>
    
+   ![Sketch 1](https://user-images.githubusercontent.com/98241953/154403774-eafee907-be36-4df5-9a44-ba6ada07f9f6.png)
    
+   <i>One of the most effective visualizations for showcasing how many places in the US have banned conversion therapy will be a map of the United States. I want to create something fairly interactive and engaging that not only shows where CT is banned, but when it was banned in each state. I also want to highlight the states where legislation is being considered. This way, the audience can see if their homestate has made such legislation and if they haven't, they'll be more empowered to contact their represenatives about it.
    
+   The second sketch that I made is fairly serious as mental health issues and suicide ideation are a big part of why conversion therapy is so dangerous to LGBT youth. Therefore, I think presenting a stark visualization shows the urgency of the subject matter.</i>
+
+   ![Sketch 2](https://user-images.githubusercontent.com/98241953/154403789-eda61884-6e88-4045-9fff-47d69b67d05c.png)
+   
+   <i>This visualization is one I want to get more data on regarding the nature of the conversion therapy organizations. I would like to see a breakdown of what religions/denominations are focused in creating this type of therapy. However, I think show how large a majority of those who go through conversion therapy are at religious organizations show who central these are who undergone CT.</i>
+
  
  <i>Data Sources</i>
+     
+ [Williams Institute](https://williamsinstitute.law.ucla.edu/press/lgb-suicide-ct-press-release/)
+ [GLAAD](https://www.glaad.org/conversiontherapy?response_type=embed)
+ [Statista](https://www.statista.com/statistics/1053024/lgbtq-youth-in-us-attempted-suicide-conversion-therapy-experience/)
+ [Human Rights Council](https://www.hrc.org/resources/the-lies-and-dangers-of-reparative-therapy)
+ [The Guardian](https://www.theguardian.com/world/2019/feb/20/conversion-therapy-can-result-in-mental-illness-poll-finds)
+     
+  <i>
+     
  
  <i>Medium and Method</i>
