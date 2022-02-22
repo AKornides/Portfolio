@@ -89,3 +89,27 @@ I found this visualization in a strange, roundabout way. Recently a televsion pr
  <i>Medium and Method</i>
     
  <i>Some of the technologies I will use in this project include Flourish and Tableau for creating some of the data visualizations, particularly the interactive map that I want to create to have the audience know where the bans are and are not. All of my data above is publically sourced, so using Flourish should be fine. I believe that I might also use Canva as a tool for making some other graphics/other elements of the project. I have found this tool to be particuarly useful in past projects, and can add some exciting visual elements. For the website itself, I'm hoping to use Shorthand. I really want my call to action to be the audience look up their represenatives in their home state if there in no ban there, and be able to advocate directly from the website. Therefore, Shorthand would be an effective way to tell this story. 
+   
+ <font size="+5"> <b>Part Two</b> </font>
+   
+   <i>Moodboard<i>
+     
+     
+   ![Moodboard](https://user-images.githubusercontent.com/98241953/155237500-f055cbef-4250-44f0-8911-c27ee3fef63b.png)
+
+   <i>Storyboard<i>
+   
+   ![1](https://user-images.githubusercontent.com/98241953/155236438-aa06d600-213a-4036-b187-d254b473376d.png)
+
+   ![2](https://user-images.githubusercontent.com/98241953/155236451-20b09cda-4344-4f3a-853c-491597c605f0.png)
+   
+![3](https://user-images.githubusercontent.com/98241953/155236459-d6a9f518-1fed-4c95-9789-cec4905aa199.png)
+   
+![4](https://user-images.githubusercontent.com/98241953/155236478-970cd0e8-588c-4b71-99b4-03f6aa5d4620.png)
+     
+     
+   
+   ![5](https://user-images.githubusercontent.com/98241953/155236511-854aa251-c486-48c5-bc45-7889a73b210f.png)
+
+
+ 
