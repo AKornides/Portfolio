@@ -17,6 +17,8 @@ Like I said, my roles in organizations have gradually changed to more analyzing 
 
 [Final Project Part One](/CT_Final1.md)
 
+[Final Project Part Two](/CT_Final2.md)
+
   <i> <b>Visualizing Government Debt</b> </i>
 
 <iframe src="https://data.oecd.org/chart/6Bn1" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bn1" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
