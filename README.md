@@ -7,11 +7,11 @@ Hello! My name is Alexandra Kornides (she/her/hers) and I am a second year Maste
 
 After graduating from CMU, I'd like to continue working as a marketing professional - perhaps here in Pittsburgh, perhaps elsewhere. 
 
-What I Hope to Learn
+<i>What I Hope to Learn</i>
 
 Like I said, my roles in organizations have gradually changed to more analyzing data. I want to learn how to effectively represent what the data says in my research for coworkers and board members. I want to learn how to be a better designer for graphs and charts that make stronger points. 
 
-<font size="+15"> <b>Portfolio</b> </font>
+<font size="+15"> <b>Projects</b> </font>
 
 [Government Debt](/Government_Debt.md)
 
@@ -20,3 +20,5 @@ Like I said, my roles in organizations have gradually changed to more analyzing 
 [Final Project Part One](/CT_Final1.md)
 
 [Final Project Part Two](/CT_Final2.md)
+
+[Final Project Part Three](/CT_Final3.md)
