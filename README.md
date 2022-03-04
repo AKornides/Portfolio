@@ -12,8 +12,10 @@ What I Hope to Learn
 Like I said, my roles in organizations have gradually changed to more analyzing data. I want to learn how to effectively represent what the data says in my research for coworkers and board members. I want to learn how to be a better designer for graphs and charts that make stronger points. 
 
 <font size="+15"> <b>Portfolio</b> </font>
+
 [Government Debt](/Government_Debt.md)
-[Final Project](/Final_Project.md)
+
+[Final Project Part One](/CT_Final1.md)
 
   <i> <b>Visualizing Government Debt</b> </i>
 
